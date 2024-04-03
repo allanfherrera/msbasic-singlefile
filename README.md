@@ -5,7 +5,7 @@
 
 * Upload initial code to Github
 * Test initial commit on actual hardware
-* Make it to compile in other
+* Make it to compile in other of the supported systems
 * Make it as modular as the original (https://github.com/mist64/msbasic)
 * Change Label names as requiered, better document the code
 * Upload the comments and labels to upstream (https://github.com/mist64/msbasic)
